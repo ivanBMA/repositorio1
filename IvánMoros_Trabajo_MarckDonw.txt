@@ -1,0 +1,130 @@
+###### 02/11/2021
+Un malware es todo programa o código malicioso que ataca un dispositivo electrónico, desde ordenadores a móviles o tabletas, con el objetivo de dañar su sistema, provocar un mal funcionamiento del mismo o robar la información alojada en él. Puede venir oculto en:
+
+- Archivos adjuntos en correos electrónicos fraudulentos.
+- Enlaces en SMS que solicitan descargar aplicaciones o archivos.
+- Aplicaciones no oficiales que han sido infectadas con este software.
+- Publicidad maliciosa enmascarada en páginas web ilegítimas.
+- Actualizaciones de software solicitadas para ver ciertos contenidos en páginas web.
+
+En caso de que el dispositivo electrónico se vea infectado con un malware, pueden detectarse ciertas anomalías, tales como:
+
+- El dispositivo no funciona con la fluidez habitual.
+- El sistema se bloquea con frecuencia. 
+- Se reduce el espacio disponible en el disco duro.
+- Se instalan programas desconocidos para el usuario.
+- Aparecen extensiones y herramientas en el navegador que no se han descargado previamente.
+Cambia la página de inicio del mismo.
+- Se reciben mensajes de error desconocidos con asiduidad. 
+- Deja de funcionar correctamente el antivirus.
+
+### ¿Cuáles son los principales objetivos que persiguen estos programas maliciosos?
+
+[![Build Status](https://www.bbva.es/content/dam/public-web/bbvaes/images/finanzas-vistazo/ef/ciberseguridad/2400x1600_Ultima-Hora-13.jpg.img.960.1635933878392.jpg)]()
+
+- Robo de información: son muchos los tipos de malware que tienen como objetivo conseguir información personal del usuario (contraseñas, cuentas bancarias o medios de pago) para venderla o utilizarla posteriormente, con el fin de cometer fraude o extorsión. Entre ellos se encuentran:
+- Troyano: se presenta como un programa útil para el usuario, por lo que habitualmente lo descarga e instala sin miedo. Una vez en el sistema, ofrece acceso remoto y no autorizado al hacker al dispositivo ya infectado.
+- Spyware: software espía que se instala en el equipo del usuario cuando descarga un fichero adjunto infectado o instala algún programa que contiene este software camuflado. Recopila información privada de los usuarios y la envía a terceros.
+- Keylogger: es una aplicación que registra las teclas que pulsa el usuario en su equipo, sin su permiso ni conocimiento, y después envía la información a terceros.
+- Secuestro de información (ransomware): es un tipo de malware que bloquea el acceso a la información almacenada en el equipo del usuario, cifrándola. Tras ello, los delincuentes solicitan el pago de un importe para que el usuario pueda recuperar dicha información. El miedo a perderla hace que las víctimas paguen este rescate, con resultados muy diversos, por lo que es totalmente desaconsejable ceder ante este tipo de extorsiones.
+- Fines publicitarios: menos peligroso, pero muy molesto, es el denominado malware publicitario o adware, un software que muestra anuncios no deseados en la pantalla del usuario, habitualmente a través de su navegador o de su cuenta de correo. También lo hace mediante ventanas emergentes o pop-ups.
+
+### ¿Cómo puedes proteger tu dispositivo del malware?
+
+Los hábitos de seguridad más importantes que debes poner en práctica para evitar la descarga y ejecución de un software malicioso en tus dispositivos son:
+
+- Mantener siempre actualizados el software y las aplicaciones de los dispositivos.
+- Descargar las aplicaciones exclusivamente desde los mercados oficiales: Google Play o App Store.
+- Utilizar herramientas para detectar páginas web infectadas como, por ejemplo, Safe Browsing de Google. 
+- Instalar programas antivirus y antimalware y mantenerlos siempre actualizados y en funcionamiento.
+- No descargar archivos de páginas que no sean seguras (recuerda que las páginas web legítimas comienzan por https) ni de correos electrónicos que resulten sospechosos.
+- No proporcionar tu información privada ni descargar programas en páginas web a las que has accedido a través de un enlace incluido en un correo electrónico. Antes de llevar a cabo una acción, debes cerciorarte siempre de que se trata de un email legítimo.
+
+### Seguro BBVA Allianz Cyber
+BBVA ayuda a sus clientes pymes y autónomos a proteger sus negocios de las ciberamenazas existentes en la red con herramientas como el seguro BBVA Allianz Cyber.
+
+El seguro proporciona coberturas preventivas para incrementar la seguridad de la información de la empresa, así como asistencia legal, informática y de peritos informáticos en caso de pérdida o robo de datos y coberturas de daños propios como la pérdida de beneficios por paralización del negocio.  Además, presta el apoyo y asesoramiento de un equipo de especialistas en caso de reclamaciones por violación de datos, perjuicios por actos en medios o sanciones de protección de datos. 
+
+[![Build Status](https://www.bbva.es/content/dam/public-web/bbvaes/images/finanzas-vistazo/ef/banca-digital/3200x912/3200x912-fintech.jpg.img.960.1592387341263.jpg)]()
+
+El pharming es un tipo de ataque informático cuyo objetivo no es otro que el robo de información sensible. Para ello, los ciberdelincuentes realizan un ataque al DNS (Domain Name Server) con el que consiguen redirigir a los usuarios a una página web falsa, que cuenta con el nombre de dominio oficial, para robarles su información privada.
+### Tipos de pharming
+Existen tres versiones:
+
+- ##### Ataque al archivo host del ordenador (o pharming local)
+Requiere la instalación del virus o troyano en el ordenador. El objetivo es modificar dicho archivo y reconducir, con ello, el rumbo del tráfico a un sitio web malicioso de su elección (en el que se lleva a cabo el robo de datos sensibles).
+- ##### Ataque al servidor DNS (o Drive-By pharming)
+Tras sortear los firewalls o rúters, se infecta este servidor (encargado de traducir los nombres de las distintas webs tomando como referencia la IP), enviando a los usuarios que acceden a ellas a una dirección falsa elegida por el hacker.
+- ##### Ataque a las vulneraciones del servidor DNS (o DNS poisoning)
+Como variante de la anterior, su objetivo son las brechas que puedan tener los servidores DNS en relación a su caché de direcciones. Su complejidad hace que sea la más peligrosa de las 3 aunque, hoy en día, es la menos habitual, ya que los proveedores de Internet han corregido los fallos que pudiese haber.
+
+[![Build Status](https://www.bbva.es/content/dam/public-web/bbvaes/images/finanzas-vistazo/ef/ciberseguridad/2400x1600/2400x1600-que-es-el-pharming-y-como-puedes-evitarlo.jpg.img.960.1592387485198.jpg)]()
+
+## Pharming contra phishing: ¿qué los diferencia?
+A pesar de tener la misma meta, la forma de realizar el ataque es diferente. Mientras el phishing emplea un cebo (sms, correo electrónico, etc.) con el que atraer al usuario a una web en la que robarle sus datos, el pharming le ataca directamente, accediendo a su ordenador (bien al hosts o al servidor DNS) y enviándole directamente a la web en la que se le sustraerá la información (en lugar de darle la opción de clicar, o no, en un enlace).
+
+## Combatir el pharming, ¿es posible?
+Un ataque de pharming es difícil de detectar si se realiza bien, por lo que es mejor prevenirlo. Para ello, existen una serie de medidas básicas a adoptar:
+
+- #### Comprobar que la url es correcta
+(se corresponde con la que accedes habitualmente). Si detectas que no es la misma, puedes estar ante una copia.
+- #### Revisar que incluye la ‘s’ 
+tras el ‘http’ (visualizando ‘https’). 
+- #### Evaluar bien la página antes de empezar a navegar por ella 
+(su aspecto es el de siempre). Hay que vigilar tanto sus componentes como los distintos enlaces que incluya.
+- #### No pulsar en enlaces ni descargar archivos 
+que no parezcan seguros. 
+- #### Visualizar las notificaciones del antivirus
+o el navegador. Si indican que la página no es segura, lo mejor es no entrar y buscar una opción alternativa.
+- #### Contar con un buen software de seguridad 
+y hacerlo, si es posible, en su versión de pago (y no la gratuita, más limitada). También se pueden encontrar opciones ad hoc para este tipo de vulneraciones, más adecuadas a la hora de evitar el robo de información delicada. 
+
+[![Build Status](https://www.bbva.es/content/dam/public-web/bbvaes/images/finanzas-vistazo/ef/banca-digital/3200x912/3200x912-fintech.jpg.img.960.1584619675142.jpg)]()
+
+La creciente preocupación de los ciudadanos por el coronavirus está siendo aprovechada por los ciberdelincuentes para realizar estafas electrónicas y obtener información privada de los usuarios. 
+
+Los tipos de ciberataques que están ejecutando para llevar a cabo estos delitos son, principalmente:
+
+- El phishing: correos electrónicos en los que suplantan a un organismo oficial e intentan redirigir al usuario, a través de un enlace, a una página web falsa para que introduzca en ella sus datos personales y/o bancarios. También pueden contener un archivo adjunto que ha sido infectado con software malicioso.
+- El smishing: el modus operandi es el mismo, pero los canales utilizados son el SMS y las herramientas de mensajería instantánea como WhatsApp.
+Ten precaución y mantente en alerta si recibes alguno de los siguientes correos electrónicos o mensajes fraudulentos relacionados con el coronavirus que están circulando durante estos días por la Red:
+
+- Mensaje de WhatsApp suplantando al Ministerio de Sanidad con algunas recomendaciones para hacer frente a la nueva enfermedad. El texto va encabezado por el titular ‘ALERTA POR CORONAVIRUS. Mensaje urgente del Ministerio de Sanidad’ y va acompañado de un enlace que redirige a los usuarios a una página web falsa de venta de mascarillas.
+- Correo electrónico en el que suplantan al departamento interno de la empresa y en el que invitan a descargar un PDF, infectado con malware, con el protocolo que la compañía ha activado para enfermedades contagiosas.
+- Correo electrónico de la Organización Mundial de la Salud (OMS) que incluye un botón para descargar las medidas de seguridad (escrito en inglés, Safety measures). El email aparece firmado por la supuesta doctora Stella Chungong.
+- Correo electrónico del Centro para el Control y la Prevención de Enfermedades (CDC) con remitente CDC-Covid19@cdc.gov en el que se informa del avance del coronavirus y se solicitan donaciones a través de bitcoins. El correo, redactado en inglés, está firmado por la Division of eHealth Marketing. También suplantando al CDC está circulando otro correo con un archivo adjunto malicioso que supuestamente contiene las últimas estadísticas sobre contagios.
+- También han sido detectados diversos mapas online que muestran el número de infectados por el coronavirus en cada uno de los países. Las páginas web y aplicaciones que los albergan contienen software espía y malware y han sido diseñadas para infectar los dispositivos de los usuarios.
+ 
+
+[![Build Status](https://www.bbva.es/content/dam/public-web/bbvaes/images/finanzas-vistazo/ef/ciberseguridad/2400x1600/2400x1600-protegete-de-los-ciberataques-generados-por-el-coronavirus%20(2).jpg.img.960.1584693379799.jpg)]()
+
+Las siguientes recomendaciones de seguridad te ayudarán a detectar este tipo de ciberataques y a proteger adecuadamente tu información sensible y tus dispositivos:
+
+- En primer lugar, ningún organismo oficial solicita datos personales a través de correo electrónico, SMS o WhatsApp, así que no los proporciones por ninguno de estos canales.
+- Verifica el remitente de los correos electrónicos y los enlaces que estos incluyen y desconfía si contienen letras y caracteres extraños. Siempre debes comprobar la dirección web a la que te intenta dirigir un enlace antes de pulsarlo. 
+- No descargues ningún archivo adjunto relacionado con el COVID-19 sin antes asegurarte de si su origen es legítimo.Tal como exponen las autoridades, la cura del coronavirus no la recibirás por email.
+- No descargues aplicaciones no oficiales para conocer el alcance global del coronavirus.
+- Evita difundir contenido que no ha sido contrastado, ya que puede formar parte de una campaña malintencionada de bulos.
+- BBVA te recomienda utilizar los canales digitales y se suma a #YoMeQuedoEnCasa y a #EsteVirusLoParamosUnidos. Accede a bbva.es o a la app de BBVA y aprovecha las funcionalidades de nuestra Banca Online para realizar todas tus consultas y operaciones de forma completamente segura y sin moverte de casa.
+
+[![Build Status](https://www.bbva.es/content/dam/public-web/bbvaes/images/finanzas-vistazo/ef/banca-digital/3200x912/3200x912-fintech.jpg.img.960.1601882446971.jpg)]()
+
+El phishing es una técnica de ingeniería social que consiste en el envío de un email en el que los ciberdelincuentes suplantan la identidad de una compañía conocida o de una entidad pública para solicitar información personal y bancaria al usuario. A través de un enlace incluido en el correo electrónico intentan redirigirle a una página web fraudulenta para que introduzca su número de tarjeta de crédito, DNI, la contraseña de acceso a la banca digital, etc.
+
+Estos correos electrónicos fraudulentos suelen incluir el logotipo o la imagen de marca de la entidad, contienen errores gramaticales e intentan transmitir urgencia y miedo para que el usuario realice las acciones que le solicitan.
+
+Un email de tipo phishing también puede llevar un archivo adjunto infectado con software malicioso. El objetivo de este malware es infectar el equipo del usuario y robar su información confidencial.
+
+Este tipo de ataque también es ejecutado por los ciberdelincuentes a través de mensajes SMS (smishing) y de llamadas telefónicas (vishing).
+
+[![Build Status](https://www.bbva.es/content/dam/public-web/bbvaes/images/finanzas-vistazo/ef/ciberseguridad/2400x1600/2400x1600-que-es-el-phishing-y-como-evitarlo.jpg.img.960.1601883400633.jpg)]()
+
+## Cómo protegerte del phishing
+- Refuerza la seguridad de tus dispositivos y mantén actualizados el sistema operativo, el navegador y las aplicaciones. Una combinación que puede evitarte muchos problemas económicos.
+- No introduzcas nunca tus datos personales en una página web a la que has accedido a través de un correo. En el caso de que sí la conozcas, entra tecleando la dirección en el navegador.
+- Revisa tus cuentas periódicamente para tener controlados los movimientos que se realizan en ellas y el total acumulado. Si ves alguna operación que no reconoces, ponte inmediatamente en contacto con atención al cliente (o con tu Equipo de Gestores) para solucionarlo.
+- Recuerda que BBVA nunca te solicitará tu información bancaria por email o SMS, así que no la proporciones por estos canales.
+- Revisa bien la URL del enlace que te han enviado. Hasta el más mínimo detalle (una letra distinta, un punto o un guion, por ejemplo) puede ser clave para no caer en la trampa. También debes comprobar que el enlace comience por “https”, sello inequívoco de seguridad. 
+- Verifica que el remitente del email es el oficial. Los ciberdelincuentes suelen utilizar técnicas para simular que se trata de la compañía o entidad real, incluyendo algún carácter especial entre ellas (bbv-a, por ejemplo) o cambiando alguna letra por otra parecida (bbua).
+- No sigas leyendo el mensaje si es extremadamente alarmante o si te obliga a tomar una decisión en un periodo corto de tiempo. Si se da alguno de los dos casos, el banco contacta con su cliente por una vía más segura. 
+- No descargues un archivo adjunto en un correo electrónico, más sin pasarlo por un antivirus, salvo que sepas que proviene de una fuente segura.
